@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-[image](https://top.gg/api/widget/:557580985646972928.svg)
+[Image](https://top.gg/api/widget/:557580985646972928.svg)
 # Header 1
 ## Header 2
 ### Header 3
