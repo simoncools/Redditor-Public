@@ -3,6 +3,8 @@
   <img src="https://top.gg/api/widget/557580985646972928.svg?usernamecolor=FFFFFF&topcolor=000000" width="350" title="hover text">
 </p>
 
+### Find my discord bot page [Here](https://top.gg/bot/557580985646972928)
+
 # About
 Redditor is a bot that is capable of automatically grabbing new posts from subreddits, and posting them to your discord server. You pick which subreddit you want to see in which text channel.You can only have one subreddit in one text channel, so it's not possible (yet) to subscribe a single subreddit to multiple text channels.
 
