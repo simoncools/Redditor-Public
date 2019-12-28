@@ -7,10 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+[Image](https://top.gg/api/widget/557580985646972928.svg?usernamecolor=FFFFFF&topcolor=000000)
 ```markdown
 Syntax highlighted code block
-[Image](https://top.gg/api/widget/:557580985646972928.svg)
+
 # Header 1
 ## Header 2
 ### Header 3
