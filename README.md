@@ -21,8 +21,9 @@ Redditor will NOT post in channels that have slowmode enabled, redditor will aut
 To subscribe/unsubscribe you MUST have either a role called "Redditor" or Administrator permissions. This is to avoid spam from unauthorized users.
 
 # Commands
-## .//Subscribe - Subscribe a text channel to a subreddit - Requires "Redditor" Role or Administrator Permissions
+### .//Subscribe - Subscribe a text channel to a subreddit - Requires "Redditor" Role or Administrator Permissions
 .//subscribe [subreddit name here] [text channel name here]
+Do not include the brackets []!
 
 Heres an example if you want to subscribe a text channel called memes to r/dankmemes :
 
@@ -30,8 +31,9 @@ Heres an example if you want to subscribe a text channel called memes to r/dankm
 
  
 
-## .//Unsubscribe - Unsubscribe from a text channel - Requires "Redditor" Role or Administrator Permissions
+### .//Unsubscribe - Unsubscribe from a text channel - Requires "Redditor" Role or Administrator Permissions
 .//unsubscribe [subreddit]
+Do not include the brackets []!
 
 Heres an example if you want to unsubscribe from the subreddit r/dankmemes
 
@@ -41,28 +43,28 @@ Note that you do not need to enter a text channel
 
  
 
-## .//List - See a list of all the subreddits you're subscribed to and which text channel they are in
+### .//List - See a list of all the subreddits you're subscribed to and which text channel they are in
 .//list
 
 No further parameters are needed for this command.
 
  
 
-## .//Help - If you need to refresh your memory on the commands, this will help you
+### .//Help - If you need to refresh your memory on the commands, this will help you
 .//help
 
 No further parameters are needed for this command.
 
  
 
-## .//Vote - Sends a link to vote for Redditor
+### .//Vote - Sends a link to vote for Redditor
 .//vote
 
 No further parameters are needed for this command.
 
  
 
-## .//Interval - Shows how long it took last time for the bot to grab all new posts
+### .//Interval - Shows how long it took last time for the bot to grab all new posts
 .//interval
 
 No further parameters are needed for this command.
